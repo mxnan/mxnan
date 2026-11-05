@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mxnan&label=Profile%20views&color=0e75b6&style=flat" alt="mxnan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mxnan" alt="mxnan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mxn8n" target="blank"><img src="https://img.shields.io/twitter/follow/mxn8n?logo=twitter&style=for-the-badge" alt="mxn8n" /></a> </p>
-
-- VISIT [mxnan.com](https://mxnan.vercel.app)
+<h2>[mxnan.com](https://mxnan.vercel.app)</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
